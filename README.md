@@ -1,2 +1,2 @@
 # DSA Practice Repo 
-This repository consists of practice programs for learning DSA 
+This repository consists of DSA practice programs
